@@ -1,1 +1,1 @@
-# Website-Performance-Analysis
+The project is all about analyzing trends for user visiting websites, what are their actions, and sessions over time. Also, this project primarily focuses on different marketing channels so as to bring the traffic to the websites and what business impact it can make. The marketing channels here plays a primarily role as it is directly related to the engagement and non-engagement of users and their sessions.
